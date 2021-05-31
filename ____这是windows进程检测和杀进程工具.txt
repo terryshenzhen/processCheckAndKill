@@ -1,0 +1,4 @@
+
+编译环境：
+windows 10
+QT5.9.9  MinGW32
